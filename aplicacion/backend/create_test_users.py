@@ -5,7 +5,7 @@ def create_user(username, password, role):
     """
     Create a new user with the specified role.
     """
-    url = "http://localhost:8000/register"
+    url = "http://localhost:8001/register"
     payload = {
         "username": username,
         "password": password,
