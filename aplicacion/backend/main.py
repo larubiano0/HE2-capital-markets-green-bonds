@@ -30,7 +30,7 @@ origins = [
     "https://localhost:3001",
     # Wildcard for development on any local port (doesn't work with FastAPI's CORS middleware)
     # Add your frontend deployment URL (will update later)
-    "https://67cd0452c8aa3179c31dd588--boisterous-fairy-2dcb88.netlify.appw",
+    "https://67cd0452c8aa3179c31dd588--boisterous-fairy-2dcb88.netlify.app",
     # Add your custom domain
     "https://cloudsofbogota.online",
     "https://*.cloudsofbogota.online",
