@@ -2,7 +2,7 @@ import requests
 import time
 from datetime import datetime, timedelta
 
-BASE_URL = "http://localhost:8001"
+BASE_URL = "https://he2-capital-markets-green-bonds.onrender.com"
 
 def create_user(username, password, role):
     """
